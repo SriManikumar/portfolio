@@ -1,33 +1,32 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            "title": "Software Developer",
+            "subtitle": "iThots Technology Solutions Pvt.Ltd, Chennai, India",
+            "workType": "Internship",
+            "workDescription": [ 
+                "Co-developed Collegram, a cross-disciplinary web application connecting college students from different branches, enhancing, collaboration and communication, achieving a 95% user satisfaction rate.",
+                "Developed and maintained software applications, contributing to the design, coding, and testing phases of projects, resulting in ,Designed and implemented a user-friendly UI/UX, ensuring seamless navigation and an engaging user experience, resulting in a, 30% increase in user engagement.",
+                "Integrated back-end technologies for secure data storage and real-time communication features, reducing data latency by 40%",
+                "Conducted user testing and gathered feedback to iteratively improve application performance and functionality, boosting app, performance by 25%.",
+                "Collaborated with a team to deliver the project within deadlines, adhering to agile development practices, completing the project, 10% ahead of schedule.",
+                "Gained hands-on experience in full-stack development, problem-solving, and delivering scalable solutions, contributing to a 20%, improvement in team productivity."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2022 – 06/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Developer",
+            "subtitle": " Maple Labs, Bangalore, India  ",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Developed and maintained software applications, contributing to the design, coding, and testing phases of projects, resulting in ,a 20% reduction in development time.",
+"Collaborated with cross-functional teams to deliver high-quality solutions in an agile environment, achieving a 95% on-time,project delivery rate.",
+"Debugged and optimized existing systems to improve performance and scalability, enhancing system efficiency by 25%.","Gained hands-on experience with tools like Git, JIRA, and CI/CD pipelines for version control and project, management, streamlining workflows by 30%.",
+"Assisted in the implementation of new features and enhancements, ensuring adherence to coding standards, reducing code, errors by 15%.",
+"Improved problem-solving and technical skills by working on real-world projects under tight deadlines, contributing to a 10%, increase in team productivity."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2022 – 05/2022"
         }
+        
     ]
 }
